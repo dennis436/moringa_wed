@@ -1,0 +1,18 @@
+* {
+  color: aqua;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: "Franklin Gothic Medium";
+  color: blue;
+}
+.img {
+  display: flex;
+  align-content: center;
+}
